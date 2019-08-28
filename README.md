@@ -7,7 +7,7 @@
 
 ### Running Locally
 - to run the app on localhost, clone this repo
-- `cd` into the director
+- `cd` into the directory
 - run `ruby lib/app.rb` and a local server will be started at port 4567
 - simply open `localhost:4567` in any browser
 
